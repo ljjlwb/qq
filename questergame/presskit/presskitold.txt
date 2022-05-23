@@ -51,14 +51,18 @@
     </div>
     <div id="videos">
       <h2>Videos</h2>
-      <p>Quester - Official Trailer — <a href="https://www.youtube.com/watch?v=MKPAzZzC_R4" target="_blank" class="external">Youtube</a></p>
+      <p>Quester - Official Trailer — <a href="//youtube.com/watch?v=2QLUxJwSwAU" target="_blank" class="external">Youtube</a></p>
       <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="720" height="405" src="https://www.youtube.com/embed/MKPAzZzC_R4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2QLUxJwSwAU?rel=0&amp;showinfo=0" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+      </div>
+      <p>Quester - Gameplay Look — <a href="//youtube.com/watch?v=WB0yAm6iXEw" target="_blank" class="external">Youtube</a></p>
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WB0yAm6iXEw?rel=0&amp;showinfo=0" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
       </div>
     </div>
     <div id="images">
       <h2>Images</h2>
-      <p>download files as <a href="./media/images.zip" target="_blank">.zip (70.5 KB)</a></p>
+      <p>download files as <a href="./media/images.zip" target="_blank">.zip (63 KB)</a></p>
       <div class="w-10">
         <a href="./media/screenshot-01.png" target="_blank"><img class="i-5 i-s-10" src="./media/screenshot-01.png"></a>
         <a href="./media/screenshot-02.png" target="_blank"><img class="i-5 i-s-10" src="./media/screenshot-02.png"></a>
@@ -67,16 +71,50 @@
       </div>
     </div>
     <div id="logo-icon">
-      <h2>Logo &amp; Art</h2>
+      <h2>Logo &amp; Icon</h2>
+      <p>download files as <a href="./media/logo.zip" target="_blank">.zip (7 KB)</a></p>
       <div class="w-10">
         <a href="./media/logo.png" target="_blank"><img class="i-5 i-s-10" src="./media/logo.png"></a>
         <a href="./media/icon.png" target="_blank"><img class="i-5 i-s-10" src="./media/icon.png"></a>
       </div>
     </div>
+    <div id="awards-recognition">
+      <h2>Awards &amp; Recognition</h2>
+      <blockquote>
+        <ul>
+          <li>
+            <p><q>Winner, XX awards.</q></p>
+            <footer><p>- <em>game name, December 13, 2013</em></p></footer>
+          </li>
+          <li>
+            <p><q>Winner, YY awards.</q></p>
+            <footer><p>- <em>game name, December 13, 2013</em></p></footer>
+          </li>
+        </ul>
+      </blockquote>
+    </div>
+    <div id="outro-details">
+      <div id="credits" class="w-5 w-xs-10">
+        <h2>Team</h2>
+        <p><strong><a href=//twitter.com class="external">Probably the founder</a></strong><br> Founder</p>
+        <p><strong><a href=//twitter.com class="external">Another person's name</a></strong><br>developer maybe</p>
+        <p><strong><a href=//twitter.com class="external">Another person, show em if you've got em</a></strong><br>artist, who knows</p>
+        <p><strong><a href=//twitter.com class="external">A fourth person</a></strong><br>music, sound?</p>
+      </div>
+      <div id="contact" class="w-5 w-xs-10">
+        <h2>Contact</h2>
+        <p><strong>Inquiries</strong><br><a href="mailto:press-contact@company.com">press-contact@company.com</a></p>
+        <p><strong>Twitter</strong><br><a href="//twitter.com/companyname" target="_blank" class="external">twitter.com/companyname</a></p>
+        <p><strong> Facebook</strong><br><a href="//facebook.com/companyname" target="_blank" class="external">facebook.com/companyname</a></p>
+        <p><strong>Web</strong><br><a href="//companydomain.com" target="_blank" class="external">companydomain.com</a></p>
+      </div>
+    </div>
 
     <footer>
       <p>
-        <a href="https://luja.studio/" class="external">LUJA Studio</a>
+        <a href="//necrosoftgames.com/differently" target="_blank" class="external">differently</a>
+        by
+        <a href="//necrosoftgames.com"  target="_blank" class="external">Necrosoft Games</a>
       </p>
     </footer>
   </main>
