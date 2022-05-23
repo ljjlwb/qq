@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>LUJA studio</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+
+  <main>
+    <header>
+      <img src="./media/header.png">
+    </header>
+
+    <div id="intro-details">
+      <div id="factsheet" class="w-33 w-s-10">
+        <h2>Fact Sheet</h2>
+        <div><h3>Developer</h3><address>LUJA studio<br>Based in Boise, Idaho</address></div>
+        <div><h3>Website</h3><p><a href="http://luja.studio/" target="_blank" class="external">luja.studio</a></p></div>
+        <div><h3>Contact</h3><p><a href="mailto:press@luja.studio">press@luja.studio</a></p></div>
+        <div>
+          <h3>Social</h3>
+          <p>
+            <a href="https://twitter.com/studioluja" target="_blank" class="external">twitter.com/studioLUJA</a><br>
+          </p>
+        </div>
+      </div>
+      <div id="description" class="w-66 w-s-10">
+        <div id="intro">
+          <h2>Description</h2>
+          <p>Quester is a unique mashup of modern roguelikes and arcade games of yore. Dodge and fight your way through monster infested mazes all while balancing crucial resource collecting. Nevermind the story and lore– you can figure that out later! It’s time to grab your sword and jump in– there’s beasts to slay and loot to collect!</p>
+        </div>
+        <div id="history">
+          <h2>History</h2>
+          <p>In early 2018, Jacob Lugaresi made the proto version of Quester as a small browser game closer to a modern reimagining of the classic arcade game archetype: Go fast & get lots of points– and do that for as long as you can! It was a hit with his friends. Around a year later, he revisited Quester and rebuilt the game from the ground up– polishing the graphics, improving gameplay, and adding a whole lot more content. Over the following 3 years, Quester turned from a small arcade game to a full-blown roguelike with at least 673% more things. There’s a lot of stuff packed into this game, okay?</p>
+        </div>
+        <div id="Features">
+          <h2>Features</h2>
+          <ul>
+            <li>Choose 1 of 9 different playable and unlockable characters. Each character has multiple ways to build and augment them as you level up, with 9 unique level-up abilities and 3 unique prestige abilities per character.</li>
+<li>Traverse through 5 procedurally generated areas teeming with monsters. Uncover secret areas that not even the most seasoned heroes have dared venture to before.</li>
+<li>Battle over 30 unique and varied foes, all with special patterns and behaviors.</li>
+<li>Uncover the story behind the world as you stop into the shop and gain new info from the shopkeep with each visit.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="videos">
+      <h2>Videos</h2>
+      <p>Quester - Official Trailer — <a href="//youtube.com/watch?v=2QLUxJwSwAU" target="_blank" class="external">Youtube</a></p>
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2QLUxJwSwAU?rel=0&amp;showinfo=0" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+      </div>
+      <p>Quester - Gameplay Look — <a href="//youtube.com/watch?v=WB0yAm6iXEw" target="_blank" class="external">Youtube</a></p>
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WB0yAm6iXEw?rel=0&amp;showinfo=0" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+      </div>
+    </div>
+    <div id="images">
+      <h2>Images</h2>
+      <p>download files as <a href="./media/images.zip" target="_blank">.zip (63 KB)</a></p>
+      <div class="w-10">
+        <a href="./media/screenshot-01.png" target="_blank"><img class="i-5 i-s-10" src="./media/screenshot-01.png"></a>
+        <a href="./media/screenshot-02.png" target="_blank"><img class="i-5 i-s-10" src="./media/screenshot-02.png"></a>
+        <a href="./media/screenshot-03.png" target="_blank"><img class="i-5 i-s-10" src="./media/screenshot-03.png"></a>
+        <a href="./media/screenshot-04.png" target="_blank"><img class="i-5 i-s-10" src="./media/screenshot-04.png"></a>
+      </div>
+    </div>
+    <div id="logo-icon">
+      <h2>Logo &amp; Icon</h2>
+      <p>download files as <a href="./media/logo.zip" target="_blank">.zip (7 KB)</a></p>
+      <div class="w-10">
+        <a href="./media/logo.png" target="_blank"><img class="i-5 i-s-10" src="./media/logo.png"></a>
+        <a href="./media/icon.png" target="_blank"><img class="i-5 i-s-10" src="./media/icon.png"></a>
+      </div>
+    </div>
+    <div id="awards-recognition">
+      <h2>Awards &amp; Recognition</h2>
+      <blockquote>
+        <ul>
+          <li>
+            <p><q>Winner, XX awards.</q></p>
+            <footer><p>- <em>game name, December 13, 2013</em></p></footer>
+          </li>
+          <li>
+            <p><q>Winner, YY awards.</q></p>
+            <footer><p>- <em>game name, December 13, 2013</em></p></footer>
+          </li>
+        </ul>
+      </blockquote>
+    </div>
+    <div id="outro-details">
+      <div id="credits" class="w-5 w-xs-10">
+        <h2>Team</h2>
+        <p><strong><a href=//twitter.com class="external">Probably the founder</a></strong><br> Founder</p>
+        <p><strong><a href=//twitter.com class="external">Another person's name</a></strong><br>developer maybe</p>
+        <p><strong><a href=//twitter.com class="external">Another person, show em if you've got em</a></strong><br>artist, who knows</p>
+        <p><strong><a href=//twitter.com class="external">A fourth person</a></strong><br>music, sound?</p>
+      </div>
+      <div id="contact" class="w-5 w-xs-10">
+        <h2>Contact</h2>
+        <p><strong>Inquiries</strong><br><a href="mailto:press-contact@company.com">press-contact@company.com</a></p>
+        <p><strong>Twitter</strong><br><a href="//twitter.com/companyname" target="_blank" class="external">twitter.com/companyname</a></p>
+        <p><strong> Facebook</strong><br><a href="//facebook.com/companyname" target="_blank" class="external">facebook.com/companyname</a></p>
+        <p><strong>Web</strong><br><a href="//companydomain.com" target="_blank" class="external">companydomain.com</a></p>
+      </div>
+    </div>
+
+    <footer>
+      <p>
+        <a href="//necrosoftgames.com/differently" target="_blank" class="external">differently</a>
+        by
+        <a href="//necrosoftgames.com"  target="_blank" class="external">Necrosoft Games</a>
+      </p>
+    </footer>
+  </main>
+</body>
+</html>
